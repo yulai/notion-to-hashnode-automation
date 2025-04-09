@@ -1,0 +1,12 @@
+{
+  "name": "notion-to-hashnode-automation",
+  "version": "1.0.0",
+  "description": "自動同步 Notion 資訊到 Hashnode 的工具(Sync Notion posts to Hashnode)",
+  "main": "publish.js",
+  "scripts": {
+    "start": "node publish.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
